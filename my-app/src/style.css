@@ -1,0 +1,61 @@
+#logo{
+  float: left;
+  width: 150px;
+  padding: 0;
+}
+
+.ui.borderless.topmenu.menu{
+  background-color: white;
+  box-shadow: none;
+  border: none;
+}
+.text{
+  font-family: Arial;
+}
+
+#donate{
+  color:red;
+}
+
+.ui.borderless.main.menu{
+  background-color: #4A4A4A;
+  box-shadow: none;
+  border: none;
+  color: white;
+}
+
+#title{
+  font-weight: bold;
+  line-height: 28pt;
+  font-size: 28pt;
+}
+
+#article-picture{
+  width: 412px;
+}
+
+.ui.two.column.grid.segment{
+  width: 905px;
+}
+
+.ui.list{
+  color: #7290C6;
+  font-weight: bold;
+}
+
+#email-signup{
+  font-size:  20pt;
+  line-height: 20pt;
+}
+
+#mailIcon{
+  width: 155px;
+}
+
+#entry{
+  padding-right: 200px;
+}
+
+#footerHeader{
+  color: #909090;
+}
